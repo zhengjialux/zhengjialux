@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@zhengjialu8507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zhengjialu8507" height="30" width="40" /></a>
 <a href="https://leetcode.com/zhengjialux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zhengjialux" height="30" width="40" /></a>
 <a href="https://discord.gg/jialu_88801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jialu_88801" height="30" width="40" /></a>
+<a href="https://www.npmjs.com/~zhengjialux" target="blank"><img align="center" src="/images/Npm-Light.svg" alt="zhengjialux" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
