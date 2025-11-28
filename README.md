@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on **FundTabelTools**
 
-- 🌱 I'm currently learning **NodeJS and SQL/MYSQL and Python**
+- 🌱 I'm currently learning **NodeJS and MYSQL and Python**
 
 - 💬 Ask me about **FE Development**
 
