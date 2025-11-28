@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm Will/Z-X
 
-### 革命尚未成功，同志仍需努力！！！
+### 有点想法，抽空做一些有的没的，方便自己，方便他人。
 
 <p align="left"> <a href="https://twitter.com/kunsile16" target="blank"><img src="https://img.shields.io/twitter/follow/kunsile16?logo=twitter&style=for-the-badge" alt="kunsile16" /></a> </p>
 
-- 🔭 I'm currently working on **prepare for exam**
+- 🔭 I'm currently working on **财务报表统计工具**
 
 - 🌱 I'm currently learning **NodeJS and SQL/MYSQL and Python**
 
