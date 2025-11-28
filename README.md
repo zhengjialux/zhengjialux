@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/kunsile16" target="blank"><img src="https://img.shields.io/twitter/follow/kunsile16?logo=twitter&style=for-the-badge" alt="kunsile16" /></a> </p>
 
-- 🔭 I'm currently working on **财务报表统计工具**
+- 🔭 I'm currently working on **FundTabelTools**
 
 - 🌱 I'm currently learning **NodeJS and SQL/MYSQL and Python**
 
