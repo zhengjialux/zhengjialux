@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ### Adhere to the law of quantitative and qualitative changes
 
-<p align="left"> <a href="https://github.com/zhengjialux"><img src="https://github-profile-trophy.vercel.app/?username=zhengjialux&theme=buddhism" alt="zhengjialux" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kunsile16" target="blank"><img src="https://img.shields.io/twitter/follow/kunsile16?logo=twitter&style=for-the-badge" alt="kunsile16" /></a> </p>
 
 - 🔭 I'm currently working on **prepare for exam**
