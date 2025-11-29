@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 有点想法，抽空做一些有的没的。
 
-<p align="left"> <a href="https://twitter.com/kunsile16" target="blank"><img src="https://img.shields.io/twitter/follow/kunsile16?logo=twitter&style=for-the-badge" alt="kunsile16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunsile16" target="blank"><img src="/images/twitter-entry.svg" alt="kunsile16" /></a> </p>
 
 - 🔭 I'm currently working on **FundTabelTools**
 
