@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently exploring **AI**
 
-- ⚡ About me currently **FE Development**
+- ⚡ My currently working in **FE Development**
 
 - 📫 How to reach me **15879398507@163.com**
 
