@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently exploring **AI**
 
-- ⚡ My currently working in **FE Development**
-
 - 📫 How to reach me **15879398507@163.com**
 
 <h3 align="left">Connect with me:</h3>
