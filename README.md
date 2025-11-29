@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on **FundTabelTools**
 
-- 🌱 I'm currently learning **NodeJS and MYSQL and Python**
+- 🌱 I'm currently exploring **AI**
 
-- 💬 Ask me about **FE Development**
+- ⚡ About me currently **FE Development**
 
 - 📫 How to reach me **15879398507@163.com**
 
