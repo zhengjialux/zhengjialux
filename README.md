@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/zhengjialux" target="blank"><img align="center" src="/images/Other/leet-code.svg" alt="zhengjialux" height="30" width="40" /></a>
 <a href="https://discord.gg/jialu_88801" target="blank"><img align="center" src="/images/Other/discord.svg" alt="jialu_88801" height="30" width="40" /></a>
 <a href="https://www.npmjs.com/~zhengjialux" target="blank"><img align="center" src="/images/Npm-Light.svg" alt="zhengjialux" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zhengjialux" target="blank"><img align="center" src="/images/Other/youtube.svg" alt="zhengjialux" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
