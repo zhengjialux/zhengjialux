@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kunsile16" target="blank"><img align="center" src="/images/Other/twitter.svg" alt="kunsile16" height="30" width="40" /></a>
 <a href="https://medium.com/@zhengjialu8507" target="blank"><img align="center" src="/images/Other/medium.svg" alt="zhengjialu8507" height="30" width="40" /></a>
 <a href="https://leetcode.cn/u/zhengjialux" target="blank"><img align="center" src="/images/Other/leet-code.svg" alt="zhengjialux" height="30" width="40" /></a>
-<a href="https://discord.com" target="blank"><img align="center" src="/images/Other/discord.svg" alt="jialu_88801" height="30" width="40" /></a>
+<a href="https://discord.com" target="blank"><img align="center" src="/images/Discord.svg" alt="jialu_88801" height="30" width="40" /></a>
 <a href="https://www.npmjs.com/~zhengjialux" target="blank"><img align="center" src="/images/Npm-Light.svg" alt="zhengjialux" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@zhengjialux" target="blank"><img align="center" src="/images/Other/youtube.svg" alt="zhengjialux" height="30" width="40" /></a>
 </p>
