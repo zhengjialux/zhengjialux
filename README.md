@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 有点想法，抽空做一些有的没的。
 
-<p align="left"> <a href="https://twitter.com/kunsile16" target="blank"><img src="/images/twitter-entry.svg" alt="kunsile16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunsile16" target="_blank"><img src="/images/twitter-entry.svg" alt="kunsile16" /></a> </p>
 
 - 🔭 I'm currently working on **FundTabelTools**
 
@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/zhengjialux" target="blank"><img align="center" src="/images/Other/github.svg" alt="zhengjialux" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/will-z-6013792ba" target="blank"><img align="center" src="/images/LinkedIn.svg" alt="will-z-6013792ba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7922810/%e9%83%91%e5%ae%b6%e7%92%90" target="blank"><img align="center" src="/images/StackOverflow-Dark.svg" alt="7922810/%e9%83%91%e5%ae%b6%e7%92%90" height="30" width="40" /></a>
-<a href="https://fb.com/100083511815223" target="blank"><img align="center" src="/images/Other/facebook.svg" alt="100083511815223" height="30" width="40" /></a>
-<a href="https://instagram.com/zjl1762029631" target="blank"><img align="center" src="/images/Instagram.svg" alt="zjl1762029631" height="30" width="40" /></a>
-<a href="https://twitter.com/kunsile16" target="blank"><img align="center" src="/images/Twitter.svg" alt="kunsile16" height="30" width="40" /></a>
-<a href="https://medium.com/@zhengjialu8507" target="blank"><img align="center" src="/images/Other/medium.svg" alt="zhengjialu8507" height="30" width="40" /></a>
-<a href="https://leetcode.cn/u/zhengjialux" target="blank"><img align="center" src="/images/Other/leet-code.svg" alt="zhengjialux" height="30" width="40" /></a>
-<a href="https://discord.com" target="blank"><img align="center" src="/images/Discord.svg" alt="jialu_88801" height="30" width="40" /></a>
-<a href="https://www.npmjs.com/~zhengjialux" target="blank"><img align="center" src="/images/Npm-Light.svg" alt="zhengjialux" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@zhengjialux" target="blank"><img align="center" src="/images/Other/youtube.svg" alt="zhengjialux" height="30" width="40" /></a>
-<a href="https://vk.com/zhengjialu" target="blank"><img align="center" src="/images/Other/vk.svg" alt="zhengjialu" height="30" width="40" /></a>
+<a href="https://github.com/zhengjialux" target="_blank"><img align="center" src="/images/Other/github.svg" alt="zhengjialux" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/will-z-6013792ba" target="_blank"><img align="center" src="/images/LinkedIn.svg" alt="will-z-6013792ba" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7922810/%e9%83%91%e5%ae%b6%e7%92%90" target="_blank"><img align="center" src="/images/StackOverflow-Dark.svg" alt="7922810/%e9%83%91%e5%ae%b6%e7%92%90" height="30" width="40" /></a>
+<a href="https://fb.com/100083511815223" target="_blank"><img align="center" src="/images/Other/facebook.svg" alt="100083511815223" height="30" width="40" /></a>
+<a href="https://instagram.com/zjl1762029631" target="_blank"><img align="center" src="/images/Instagram.svg" alt="zjl1762029631" height="30" width="40" /></a>
+<a href="https://twitter.com/kunsile16" target="_blank"><img align="center" src="/images/Twitter.svg" alt="kunsile16" height="30" width="40" /></a>
+<a href="https://medium.com/@zhengjialu8507" target="_blank"><img align="center" src="/images/Other/medium.svg" alt="zhengjialu8507" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/zhengjialux" target="_blank"><img align="center" src="/images/Other/leet-code.svg" alt="zhengjialux" height="30" width="40" /></a>
+<a href="https://discord.com" target="_blank"><img align="center" src="/images/Discord.svg" alt="jialu_88801" height="30" width="40" /></a>
+<a href="https://www.npmjs.com/~zhengjialux" target="_blank"><img align="center" src="/images/Npm-Light.svg" alt="zhengjialux" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zhengjialux" target="_blank"><img align="center" src="/images/Other/youtube.svg" alt="zhengjialux" height="30" width="40" /></a>
+<a href="https://vk.com/zhengjialu" target="_blank"><img align="center" src="/images/Other/vk.svg" alt="zhengjialu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
