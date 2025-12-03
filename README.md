@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://discord.com" target="blank"><img align="center" src="/images/Discord.svg" alt="jialu_88801" height="30" width="40" /></a>
 <a href="https://www.npmjs.com/~zhengjialux" target="blank"><img align="center" src="/images/Npm-Light.svg" alt="zhengjialux" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@zhengjialux" target="blank"><img align="center" src="/images/Other/youtube.svg" alt="zhengjialux" height="30" width="40" /></a>
+<a href="https://vk.com/zhengjialu" target="blank"><img align="center" src="/images/Other/vk.svg" alt="zhengjialu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
