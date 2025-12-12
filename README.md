@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="./icon.svg" />
+</p>
+
 # Hi 👋, I'm Will/Z-X
 
 ### 有点想法，抽空做一些有的没的。
