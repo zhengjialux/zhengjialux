@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently exploring **AI**
 
-- 📫 How to reach me **15879398507@163.com**
+- 📫 How to reach me **zhengjialu8507@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
