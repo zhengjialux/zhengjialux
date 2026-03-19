@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Will
 
-### 灵机一动，奇思妙想。
-
 <p align="left"> <a href="https://twitter.com/kunsile16" target="_blank"><img src="/images/twitter-entry.svg" alt="kunsile16" /></a> </p>
 
 - 🔭 I'm currently working on **full stack system**
