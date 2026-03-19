@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="./icon.svg" />
 </p>
 
-# Hi 👋, I'm Will/Z-X
+# Hi 👋, I'm Will
 
 ### 有点想法，抽空做一些有的没的。
 
