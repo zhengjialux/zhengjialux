@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Will
 
-<p align="left"> <a href="https://twitter.com/kunsile16" target="_blank"><img src="/images/twitter-entry.svg" alt="kunsile16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zhengjialux" target="_blank"><img src="/images/twitter-entry.svg" alt="zhengjialux" /></a> </p>
 
 - 🔭 I'm currently working on **full stack system**
 
